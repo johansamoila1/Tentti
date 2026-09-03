@@ -1,0 +1,6 @@
+﻿<resources>
+    <string name="app_name">Tentti</string>
+    <string name="label_distance">Taksimatkan pituus</string>
+    <string name="label_passengers">Matkustajien määrä</string>
+    <string name="label_holiday">Pyhäpäivä</string>
+</resources>
